@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EuCollage</string>
+    <string name="replace_media">Заменить медиа</string>
+    <string name="import_media">добавить медиа</string>
+    <string name="image_from_gallery">Твоя фотография из галерии</string>
+    <string name="add_row">Добавить ряд</string>
+    <string name="replace">Заменить</string>
+    <string name="image_in_collage">Фотография из коллажа</string>
+    <string name="replace_image_from_collage">Заменить фотографию из коллажа</string>
+    <string name="delete">Delete</string>
+    <string name="delete_image_from_collage">Удалить фотографию из коллажа</string>
+
+</resources>

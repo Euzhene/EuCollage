@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EuCollage</string>
+    <string name="replace_media">Replace Media</string>
+    <string name="import_media">Import Media</string>
+    <string name="image_from_gallery">Your image from gallery</string>
+    <string name="add_row">Add row</string>
+    <string name="replace">Replace</string>
+    <string name="image_in_collage">Image in collage</string>
+    <string name="replace_image_from_collage">Replace image from collage</string>
+    <string name="delete">Delete</string>
+    <string name="delete_image_from_collage">Delete image from collage</string>
+
+</resources>
